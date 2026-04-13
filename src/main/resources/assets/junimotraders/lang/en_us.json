@@ -2,5 +2,6 @@
   "item.junimotraders.copper_coin": "Copper Coin",
   "item.junimotraders.gold_coin": "Gold Coin",
   "item.junimotraders.iridium_coin": "Iridium Coin",
-  "item.junimotraders.iron_coin": "Iron Coin"
+  "item.junimotraders.iron_coin": "Iron Coin",
+  "creativetab.junimotraders.junimo_traders": "Junimo Traders"
 }
